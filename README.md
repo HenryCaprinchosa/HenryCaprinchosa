@@ -1,10 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Natan Zawadzki 👋
+### Network & Security Engineer | CyberSec Enthusiast
+
+I am an Engineer in Applied Computer Science, specializing in Network and Systems Security.
+
+---
+
+### 🚀 What I'm up to
+- 🎓 **Recently Achieved:** Defended my Engineering Thesis on High Availability & Perimeter Security in E-commerce environments.
+- 🛠️ **Currently working on:**
 
 <!--
-**HenryCaprinchosa/HenryCaprinchosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
