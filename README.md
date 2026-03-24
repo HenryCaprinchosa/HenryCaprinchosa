@@ -1,10 +1,11 @@
 # Hi there, I'm Natan Zawadzki 👋
 ### Network & Security Engineer | CyberSec Enthusiast
-
+---
+<!--
 I am an Engineer in Applied Computer Science, specializing in Network and Systems Security.
 
 ---
-
+-->
 ### 🚀 What I'm up to
 - 🎓 **Recently Achieved:** Defended my Engineering Thesis on High Availability & Perimeter Security in E-commerce environments.
 - 🛠️ **Currently working on:** Hosting services and a home-lab Mini-SOC.
