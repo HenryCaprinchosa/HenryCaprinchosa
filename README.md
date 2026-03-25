@@ -9,7 +9,7 @@ I am an Engineer in Applied Computer Science, specializing in Network and System
 ### 🚀 What I'm up to
 - 🎓 **Recently Achieved:** Defended my Engineering Thesis on High Availability & Perimeter Security in E-commerce environments.
 - 🛠️ **Currently working on:** Hosting services and a home-lab Mini-SOC.
-- 🌱 **Currently learning:** The basics of running a business as well IBM SkillBuild courses on AI, Cybersecurity, Cloud and Data Science.
+- 🌱 **Currently learning:** The basics of running a business as well as IBM SkillBuild courses on AI, Cybersecurity, Cloud and Data Science.
 - 🎯 **Future Plans:** Master's degree in Cybersecurity at WSB Merito University & expanding my expertise into Cloud Security (AWS).
 
 ---
